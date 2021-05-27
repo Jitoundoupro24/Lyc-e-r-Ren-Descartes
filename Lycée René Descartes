@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="description" content="Une description de la page..." />
+        <p style="text-align: center;">Lycée Descartes</p>                      <title>Acceuil - Lycée René Descartes</title>
+    </head>
+
+    <body style="background-color:mediumpurple;">
+        <button id="darkTrigger">Activer le thème sombre</button>
+    </body>
+</html>
